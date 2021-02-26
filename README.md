@@ -1,4 +1,5 @@
 # instructions 
+(this works on windows 10 and above only, if you want to run this on linux then i dont give a fuck)
 
 run preferred selfbot
 
